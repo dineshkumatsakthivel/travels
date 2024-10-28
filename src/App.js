@@ -8,7 +8,7 @@ import Datadiv from './Components/Datadiv';
 
 function App() {
   return (
-   <><Navbar/>
+   <><Navbar/>     
    <Home/>
    <Datadiv/>
    {/* <Footer/> */}
